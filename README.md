@@ -2,9 +2,10 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo with a passion for exploring and creating with technology. 
 
-On my GitHub, you'll find some of my projects and experiments where I experiment with our interactions to hardware and software. I like to work on creative solutions for the projects I tackle, including web and mobile apps, chatbots, and embedded hardware projects.
+This GitHub has some of my projects and experiments where I explore our interactions to hardware and software. I like to work on creative solutions for the projects I tackle, including web and mobile apps, chatbots, and embedded hardware projects.
 
-Check out my website where I showcase my projects and experiences if you're interested in learning more about my work.
+Check out my website where I write some posts and showcase my projects if you're interested in learning more about my work.
+
 Feel free to look at my repos and reach out if you have any questions or ideas to share.
 
 <!--
